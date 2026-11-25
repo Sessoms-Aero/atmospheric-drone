@@ -1,5 +1,5 @@
 # Atmospheric Monitoring Drone
-An EE project exploring autonomous atmospheric monitoring through computer vision, environmental sensing, and embedded computing.
+An EE project exploring autonomous atmospheric monitoring through computer vision, environmental sensing, and embedded computing
 
 ## Hardware
 - NVIDIA Jetson Orin Nano
