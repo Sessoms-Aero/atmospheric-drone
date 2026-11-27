@@ -17,3 +17,4 @@ __pycache__/
 
 # Generated atmospheric sensor data
 atmospheric_data.csv
+combined_atmospheric_data.csv
